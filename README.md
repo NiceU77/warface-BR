@@ -6,7 +6,7 @@ credits:  (onra2).
 
 credits:  KANKOSHEV.
 
-credits:  SandyWF.
+credits:  Dark1027
 
 credits:  DGHack
 
