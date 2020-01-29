@@ -1,4 +1,4 @@
-warface br
+#warface br
 
 made for unknowncheats
 
@@ -8,7 +8,7 @@ credits:  KANKOSHEV.
 
 credits:  SandyWF.
 
-credits:  Dark1027.
+credits:  DGHack
 
 
 modified onra2 source code
