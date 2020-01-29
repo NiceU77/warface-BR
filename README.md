@@ -1,17 +1,20 @@
-#warface br
+# warface br
+# modified onra2 source code
 
 made for unknowncheats
 
-credits:  (onra2).
-
-credits:  KANKOSHEV.
-
-credits:  Dark1027
-
-credits:  DGHack
+credits: 
+* onra2
+* KANKOSHEV
+* Dark1027
+* DGHack
 
 
-modified onra2 source code
+
 
 
 f9 show menu
+
+ * Microsoft Visual Studio Community 2019
+* Microsoft DirectX SDK (June 2010)
+
